@@ -1,0 +1,27 @@
+.login-container {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-family: 'Arial', sans-serif; /* Change the font-family to your desired font */
+    font-size: 16px; /* Set the font size to 16 pixels */
+    width: 20em; /* Set the width of the container using em units */
+  }
+  
+  
+  .login-container input,
+  .login-container button {
+    font-family: 'Arial', sans-serif; /* Apply the same font-family to all elements inside .login-container */
+    font-size: 20px; /* Set the font size to 18 pixels */
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%; /* Set the width of the input fields to 100% */
+    margin-bottom: 15px; /* Add spacing between elements using pixels */
+  }
+  
+  
+  
+  
